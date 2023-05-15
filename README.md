@@ -6,11 +6,10 @@ Welcome to the Alpha Centauri repository! This repository contains the build fil
 
 To play Alpha Centauri, follow the steps below to download the build:
 
-1. Go to the [Releases](https://github.com/your-username/alpha-centauri/releases) page of this repository.
-2. Locate the latest release and click on it.
-3. In the release assets section, find the appropriate build for your platform (e.g., Windows, macOS, Linux).
-4. Click on the download link next to the build you want to download.
-5. Wait for the download to complete.
+1. Locate the latest release and click on it.
+2. In the release assets section, find the appropriate build for your platform (e.g., Windows, macOS, Linux).
+3. Click on the download link next to the build you want to download.
+4. Wait for the download to complete.
 
 ### Running the Game
 
